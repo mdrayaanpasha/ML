@@ -13,6 +13,7 @@ A collection of algorithms built purely for the thrill of watching my laptop gas
 - Linear Regression 🌡️
 - Logistic Regression 🎯
 - Binomial Distribution 📊
+- K Means 🗯️
 
 <br/>
 Coming soon: More chaos....
