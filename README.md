@@ -14,6 +14,7 @@ A collection of algorithms built purely for the thrill of watching my laptop gas
 - Logistic Regression 🎯
 - Binomial Distribution 📊
 - K Means 🗯️
+- Descion Trees 🌲
 
 <br/>
 Coming soon: More chaos....
