@@ -15,6 +15,8 @@ A collection of algorithms built purely for the thrill of watching my laptop gas
 - Binomial Distribution 📊
 - K Means 🗯️
 - Descion Trees 🌲
+- Neural Network 🫧
+- Vector Embedding 🪡
 
 <br/>
 Coming soon: More chaos....
